@@ -1,0 +1,109 @@
+#window {
+	margin-left: 4px;
+}
+#window * {
+	background-color: #1F1F28;
+	padding: 0;
+	margin-bottom: 4px;
+	margin-left: 0px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+#custom-battery {
+	margin-right: 10px;
+	background-color: #1F1F28;
+	padding: 0;
+	margin-bottom: 4px;
+	margin-left: 0px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+#custom-archstart {
+	margin-left: 2;
+	padding-right: 20px;
+	font-size: 20;
+}
+#custom-cava {
+	background-color: #1F1F28;
+	padding: 0;
+	margin-bottom: 4px;
+	margin-left: 0px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+#clock {
+	margin-right: 10px;
+	background-color: #1F1F28;
+	padding: 0;
+	margin-bottom: 4px;
+	margin-left: 0px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+#tray {
+	margin-right: 10px;
+	background-color: #1F1F28;
+	padding: 0;
+	margin-bottom: 4px;
+	margin-left: 0px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+#custom-pipewire {
+	margin-right: 10px;
+	background-color: #1F1F28;
+	padding: 0;
+	margin-bottom: 4px;
+	margin-left: 0px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+#language {
+	margin-right: 10px;
+	background-color: #1F1F28;
+	padding: 0;
+	margin-bottom: 4px;
+	margin-left: 0px;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-size: 10pt;
+}
+#clock {
+	margin-right: 10px;
+	background-color: #1F1F28;
+	padding: 0;
+	margin-bottom: 4px;
+	margin-left: 0px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+* {
+	border-radius: 10px;
+	background-color: transparent;
+	color: #d4c787;
+	font-family: "JetBrainsMono Nerd Font";
+	font-size: 10pt;
+}
+#workspaces {
+	background-color: #1F1F28;
+	padding: 0;
+	margin-bottom: 4px;
+	margin-left: 10px;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+#workspaces button {
+	padding: 4px;
+}
+#workspaces button.active {
+	border-radius: 10px;
+	border: 2px solid #ddc7a1;
+	margin-top: 2px;
+	margin-bottom: 2px;
+}
+.modules-right {
+	background-color: #1F1F28;
+	font-size: 26pt;
+}
+
